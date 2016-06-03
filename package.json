@@ -1,0 +1,24 @@
+{
+  "name": "krb5client",
+  "version": "0.1.0",
+  "description": "Kerberos 5 client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtn70/krb5client.git"
+  },
+  "keywords": [
+    "krb5",
+    "kerberos",
+    "client"
+  ],
+  "author": "Jens Torgeir Næss <jtn70@hotmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jtn70/krb5client/issues"
+  },
+  "homepage": "https://github.com/jtn70/krb5client#readme"
+}
